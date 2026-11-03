@@ -30,7 +30,7 @@ A web app for keeping track of job applications, with secure login and a simple,
 Built with React, TypeScript, Django and PostgreSQL.
 [View code](https://github.com/MillicentChelangat/REPO-NAME)
 
-**AI Smart Journal** (in progress)
+**AI Smart Journal** 
 A journal app that uses an AI model to help people reflect on what they write. The Django backend talks to the AI, and the React frontend shows the results.
 Built with React, Django REST Framework and an AI API.
 [View code](https://github.com/MillicentChelangat/REPO-NAME)
@@ -46,4 +46,4 @@ I'm open to junior full-stack, backend and AI engineering roles and internships.
 
 - Email: millicentchelangat42@gmail.com
 - LinkedIn: [Millicent Chelangat](https://linkedin.com/in/millicent-chelangat-ba71b6256)
-
+- Portfolio: [View my portfolio](https://portfolio-gamma-wheat-48.vercel.app/)
