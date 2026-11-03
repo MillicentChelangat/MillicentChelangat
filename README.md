@@ -1,4 +1,3 @@
-## Hi there 
 # Millicent Chelangat
 
 Junior full-stack software engineer in Nairobi, Kenya.
